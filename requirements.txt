@@ -1,0 +1,1 @@
+-e "requests\nPyPDF2\npython-docx\npandas\nopenpyxl\nunidecode\n" 
